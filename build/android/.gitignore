@@ -1,0 +1,9 @@
+AndroidManifest.xml
+default.properties
+bin
+lib
+res
+src
+
+!.
+!..
